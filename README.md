@@ -10,7 +10,7 @@ A collection of custom skills for AI agents.
 ## Installation
 
 ```bash
-npx skills add <path-to-this-repo>
+npx skills add WiconWang/ProductToCode_LLM_Skills
 ```
 
 ## License
